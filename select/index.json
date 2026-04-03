@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "鏡の中のアクトレス",
+  "base_artist": "Meiko Nakahara",
+  "createdAt": "2026-04-03T10:00:19.838821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/01_鏡の中のアクトレス_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/02_鏡の中のアクトレス_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/03_鏡の中のアクトレス_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "meiko nakahara",
+      "has_synced": true,
+      "path": "select/04_鏡の中のアクトレス_meiko_nakahara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原めい子",
+      "has_synced": true,
+      "path": "select/05_鏡の中のアクトレス_中原めい子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/06_鏡の中のアクトレス_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/07_鏡の中のアクトレス_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/08_鏡の中のアクトレス_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鏡の中のアクトレス",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/09_鏡の中のアクトレス_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_01_鏡の中のアクトレス_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_02_鏡の中のアクトレス_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_03_鏡の中のアクトレス_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_04_鏡の中のアクトレス_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "鏡の中のアクトレス",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_05_鏡の中のアクトレス_中原_めいこ.txt"
+    }
+  ]
+}
